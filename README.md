@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @FarhanOhe03
-- 👀 I’m interested in Soccer, Cars and learning about coding.
-- 🌱 I’m currently learning Java and Python but I am trying ti also develop my own website
-- 💞️ I’m looking to collaborate on anything to be honest
-- 📫 How to reach me farhanto@udel.edu
+Hello Everyone my name is Farhan Ohe. A student at the University of Delaware. I am pursuing CS with a focus in SWE and Data Science.
+I am interested in various things and am working on developing and expanding my portfolio.
 
 <!---
 FarhanOhe03/FarhanOhe03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
